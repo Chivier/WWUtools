@@ -1,0 +1,16 @@
+{
+    "version": "0.0.0",
+    "pluginName": "万词词典",
+    "description": "万词王Utools版本",
+    "author": "Chivier Humber",
+    "homepage": "https://wantwords.thunlp.org/",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "ww",
+            "explain": "万词词典速查",
+            "cmds": ["Python <version>"]
+         }
+    ]
+}
