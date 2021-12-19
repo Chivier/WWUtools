@@ -1,5 +1,5 @@
 {
-    "version": "0.0.0",
+    "version": "0.0.1",
     "pluginName": "万词词典",
     "description": "万词王Utools版本",
     "author": "Chivier Humber",
@@ -8,9 +8,27 @@
     "logo": "logo.png",
     "features": [
         {
-            "code": "ww",
+            "code": "wczz",
             "explain": "万词词典速查",
-            "cmds": ["Python <version>"]
-         }
+            "cmds": ["万词中中查询"]
+        },
+        
+        {
+            "code": "wczy",
+            "explain": "万词词典速查",
+            "cmds": ["万词中英查询"]
+        },
+        
+        {
+            "code": "wcyz",
+            "explain": "万词词典速查",
+            "cmds": ["万词英中查询"]
+        },
+        
+        {
+            "code": "wcyy",
+            "explain": "万词词典速查",
+            "cmds": ["万词英英查询"]
+        }
     ]
 }
